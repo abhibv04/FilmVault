@@ -1,4 +1,4 @@
-#FilmVault
+# FilmVault
 
 
 Welcome to FilmVault, an IMdB like website used to display all the latest movies
@@ -30,7 +30,11 @@ Executing files:
 
 Deployment:
 This React app was deployed on Netlify.
-Link:
+To deploy on Netlify, production build package needs to be created. 
+In this project, dist is the build package created, after running 'npm run build'
+
+
+Link to App:
 https://filmvaultabhinav.netlify.app/
 
 
